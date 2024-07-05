@@ -27,6 +27,6 @@ Aplicação web de uma <b>lista de tarefas</b> simples, incluindo:
 Ferramentas e tecnologias utilizadas:
 <ul>
   <li><img src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png" alt="Eclipse" width="20px"> Eclipse IDE </li>
-  <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1200px-Apache_Tomcat_logo.svg.png" alt="Tomcat" width="25px"> Apache Tomcat 10.0.27</li>
+  <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1200px-Apache_Tomcat_logo.svg.png" alt="Tomcat" width="20px"> Apache Tomcat 10.0.27</li>
   <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="Postgre" width="20px"> PostgreSQL</li>
 </ul>
