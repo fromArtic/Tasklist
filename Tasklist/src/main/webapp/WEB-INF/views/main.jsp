@@ -282,7 +282,6 @@
 					<input type="hidden" name="idTask" value="<%= task.getId() %>">
 					<button type="submit" class="task-button task-button-delete">Delete</button>
 				</form>
-				</td>
 				<% }else{ %>
 				<form style="display: inline-block;" action="taskEdit" method="get">
 					<input type="hidden" name="idTask" value="<%= task.getId() %>">
